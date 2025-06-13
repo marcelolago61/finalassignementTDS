@@ -1,2 +1,2 @@
 # Hands-on Lab: Getting Started with GitHub
-Creating a Jupyter Notebook and inserting code and markdown cells
+Creating a Jupyter Notebook, inseting markdown cells and code
